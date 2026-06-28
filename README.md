@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0274-h-index](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0045-jump-game-ii](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
