@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 ## Two Pointers
@@ -55,4 +56,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kimseonj/Algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
