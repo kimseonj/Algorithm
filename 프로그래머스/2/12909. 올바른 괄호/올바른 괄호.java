@@ -1,34 +1,31 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.*;
 
 class Solution {
     boolean solution(String s) {
         boolean answer = true;
-
+        
         Deque<Character> stack = new ArrayDeque<>();
         for (int i = 0; i < s.length(); i++) {
-
-            if (s.charAt(i) == '(') {
-                stack.push(s.charAt(i));
+            char c = s.charAt(i);
+            
+            if (c == '(') {
+                stack.push(c);
             } else {
                 if (stack.isEmpty()) {
-                    answer = false;
-                    break;
-                } else if (s.charAt(i) == ')') {
-                    stack.pop();
+                    return false;
+                }
+                if (stack.peek() == ')') {
+                    return false;    
                 } else {
-                    answer = false;
-                    break;
+                    stack.pop();
                 }
             }
-         
         }
         
         if (!stack.isEmpty()) {
-            answer = false;
+            return false;
         }
-
-    
+        
         return answer;
     }
 }
